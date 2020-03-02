@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Services",
+    "\\src\\Services\\Catalog",
+    "\\src\\Services\\Catalog\\Catalog.Api",
+    "\\src\\Services\\Catalog\\Catalog.Api\\Controllers",
+    "\\src\\Services\\Catalog\\Catalog.Api\\Properties"
+  ],
+  "SelectedNode": "\\src\\Services\\Catalog\\Catalog.Api\\Controllers\\DefaultController.cs",
+  "PreviewInSolutionExplorer": false
+}

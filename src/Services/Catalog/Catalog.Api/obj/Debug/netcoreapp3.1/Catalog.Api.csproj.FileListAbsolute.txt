@@ -1,0 +1,17 @@
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\bin\Debug\netcoreapp3.1\Catalog.Api.exe
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\bin\Debug\netcoreapp3.1\Catalog.Api.deps.json
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\bin\Debug\netcoreapp3.1\Catalog.Api.runtimeconfig.json
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\bin\Debug\netcoreapp3.1\Catalog.Api.runtimeconfig.dev.json
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\bin\Debug\netcoreapp3.1\Catalog.Api.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\bin\Debug\netcoreapp3.1\Catalog.Api.pdb
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\obj\Debug\netcoreapp3.1\Catalog.Api.csprojAssemblyReference.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.Api.StaticWebAssets.Manifest.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.Api.StaticWebAssets.xml
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\obj\Debug\netcoreapp3.1\Catalog.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\obj\Debug\netcoreapp3.1\Catalog.Api.AssemblyInfoInputs.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\obj\Debug\netcoreapp3.1\Catalog.Api.AssemblyInfo.cs
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\obj\Debug\netcoreapp3.1\Catalog.Api.RazorTargetAssemblyInfo.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\obj\Debug\netcoreapp3.1\Catalog.Api.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Api\obj\Debug\netcoreapp3.1\Catalog.Api.pdb
