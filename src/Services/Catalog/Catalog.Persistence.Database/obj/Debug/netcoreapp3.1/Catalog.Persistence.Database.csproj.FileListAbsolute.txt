@@ -1,0 +1,11 @@
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.deps.json
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csprojAssemblyReference.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.AssemblyInfoInputs.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.AssemblyInfo.cs
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.CopyComplete
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb

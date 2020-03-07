@@ -1,0 +1,7 @@
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.deps.json
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfoInputs.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfo.cs
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.pdb

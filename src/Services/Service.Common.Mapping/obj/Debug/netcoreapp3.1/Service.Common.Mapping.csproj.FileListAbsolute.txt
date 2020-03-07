@@ -1,0 +1,11 @@
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.deps.json
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.pdb
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.csprojAssemblyReference.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.AssemblyInfoInputs.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.AssemblyInfo.cs
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.csproj.CopyComplete
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.pdb

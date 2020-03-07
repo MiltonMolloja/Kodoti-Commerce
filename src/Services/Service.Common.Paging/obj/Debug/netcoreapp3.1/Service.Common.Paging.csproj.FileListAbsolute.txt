@@ -1,0 +1,11 @@
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.deps.json
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csprojAssemblyReference.cache
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
+D:\Documents\01-ProjectsNetCore\Kodoti-Commerce\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb
